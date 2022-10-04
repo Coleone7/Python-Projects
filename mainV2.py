@@ -1,3 +1,4 @@
+#falta finalizar o loop de leitura de print da tela para o trigger do uso de poção e de auto battle.
 import pyautogui, time
 from tkinter import *
 
